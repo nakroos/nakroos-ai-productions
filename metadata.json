@@ -1,0 +1,9 @@
+
+{
+  "name": "AI Content Architect Portfolio",
+  "description": "A high-end, futuristic portfolio for an AI Content Architect and CS Specialist, featuring interactive AI generation tools and case studies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
