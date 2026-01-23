@@ -1,6 +1,6 @@
 
 import React, { useState, useRef } from 'react';
-import { generateAudioPitch } from '../services/geminiService';
+import { generateAudioPitch } from '../services/geminiService.client';
 
 const VoicePitch: React.FC = () => {
   const [text, setText] = useState('');

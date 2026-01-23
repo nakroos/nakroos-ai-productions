@@ -1,0 +1,6 @@
+/* Minimal global styles to avoid 404 and provide basic reset */
+html, body, #root {
+  height: 100%;
+}
+* { box-sizing: border-box; }
+body { margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

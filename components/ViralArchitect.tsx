@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { generateViralBlueprint } from '../services/geminiService';
+import { generateViralBlueprint } from '../services/geminiService.client';
 import { ViralScript } from '../types';
 
 const ViralArchitect: React.FC = () => {
